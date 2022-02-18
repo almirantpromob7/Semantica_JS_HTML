@@ -1,2 +1,2 @@
-# Semantica_JavaScript
-Só um estudo básico de semântica no JS
+# Semantica_JS_HTML
+Só um estudo básico de semântica HTML
